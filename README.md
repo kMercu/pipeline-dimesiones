@@ -1,6 +1,6 @@
 # Realizado por:
-# Naren Santiago Rojas Sánchez
-# David Santiago Prieto Beltran
+- Naren Santiago Rojas Sánchez
+- David Santiago Prieto Beltran
 
 # Pipeline de Actualización de Dimensiones (Esquema Estrella)
 
